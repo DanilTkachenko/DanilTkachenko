@@ -1,7 +1,8 @@
+# README
 - 👋 Hi, I’m @DanilTkachenko
 - 👀 I’m interested in web-programming
 - 🌱 I’m currently learning JavaScript. Also arleady learned HTML&CSS + bootstrap4 and bootstrap5 + adaptive.
-- 💞️ I’m looking to collaborate on this platform
+- 💞️ I’m looking to collaborate on different platforms
 - 📫 How to reach me: tkachenkodania2006@gmail.com
 
 <!---
